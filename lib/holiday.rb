@@ -70,7 +70,7 @@ arrb.each {|x| arrc << x.join(" ")}
 i = 0
 num = 5
 while i < num  do
-
+learn submit
   if i == 0
    puts"#{arr[i]}"
    puts"  #{arrc[i]}: #{arrd[i].join(', ')}"
